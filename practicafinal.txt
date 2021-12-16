@@ -1,0 +1,4 @@
+win = 
+----> You won the game!! You took 2 chances.
+----> You won the game!! You took 1 chances.
+
